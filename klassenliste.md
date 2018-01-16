@@ -3,7 +3,7 @@
 |Vorname |Anwesend|
 |--------|--------|
 |Ali     |        |
-|Bamathy |        |
+|Bamathy |    x    |
 |David   |        |
 |Dominik |        |
 |Erik    |        |
